@@ -1,9 +1,10 @@
 {
-  "name": "ionic5-stepper",
-  "version": "1.1.0",
-  "description": "steppers components for Ionic / ionic2",
+  "name": "custom-ionic5-stepper",
+  "version": "1.1.1",
+  "description": "upgraded steppers components for Ionic5",
   "main": "dist/index.js",
   "typings": "./dist/index.d.ts",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cd dev && ionic serve",
@@ -41,12 +42,12 @@
   },
   "keywords": [
     "ionic",
-    "ionic2",
-    "ionic3",
+    "ionic4",
+    "ionic5",
     "component",
     "steppers",
     "step"
   ],
-  "author": "Anreig",
+  "author": "Ramy",
   "license": "MIT"
 }
