@@ -16,7 +16,7 @@ Steppers components for Ionic 5.
 
 ### Prerequisites
 
-- `ionic-angular: ^5.x`
+- `ionic: ^5.x`
 
 ### Installing
 
